@@ -10,5 +10,9 @@
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
     "typescript": "latest"
+  },
+  "dependencies": {
+    "next-safe-action": "^7.5.0",
+    "zod": "^3.23.8"
   }
 }
